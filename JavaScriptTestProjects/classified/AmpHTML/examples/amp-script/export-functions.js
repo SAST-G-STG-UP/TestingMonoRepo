@@ -1,1 +1,0 @@
-exportFunction('getData', () => ({data: true}));

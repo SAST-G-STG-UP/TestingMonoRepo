@@ -1,7 +1,0 @@
-.text-truncated-to-first-character{
-  display:block;
-  visibility:hidden;
-  &:first-letter {
-      visibility:visible;
-  }
-}

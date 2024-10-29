@@ -1,5 +1,0 @@
-/**
- * 
- */
-
-package com.mali.services;

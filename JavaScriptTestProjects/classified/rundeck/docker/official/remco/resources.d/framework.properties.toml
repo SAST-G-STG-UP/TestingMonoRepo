@@ -1,4 +1,0 @@
-[[template]]
-    src         = "${REMCO_TEMPLATE_DIR}/framework.properties"
-    dst         = "${RUNDECK_HOME}/etc/framework.properties"
-    mode        = "0644"

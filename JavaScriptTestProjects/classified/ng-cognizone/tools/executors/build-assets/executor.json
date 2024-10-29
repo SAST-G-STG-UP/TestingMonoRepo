@@ -1,9 +1,0 @@
-{
-  "executors": {
-    "build-assets": {
-      "implementation": "./impl",
-      "schema": "./schema.json",
-      "description": "Copy the whole root to given dist"
-    }
-  }
-}
